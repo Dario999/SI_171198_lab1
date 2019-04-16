@@ -1,0 +1,6 @@
+$ git log
+commit e5ea3c42b7e31da5a969dc4f8abedf4aff2b73e7 (HEAD -> logs, origin/master, master)
+Author: Dario Ivanovski <darioivanovski33@gmail.com>
+Date:   Tue Apr 16 15:39:26 2019 +0200
+
+
